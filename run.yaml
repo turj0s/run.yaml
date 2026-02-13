@@ -11,6 +11,7 @@ spec:
         claimName: pipeline-pvc
   params:
     - name: git-url
-      value: https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>
+      value: https://github.com/turj0s/run.yaml
     - name: git-revision
       value: main
+
